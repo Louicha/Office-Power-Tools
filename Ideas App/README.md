@@ -23,6 +23,8 @@ You need a SharePoint list with the following columns:
 
 ![Example of a SharePoint List](SharePointList_Ideas.png)
 
+[PnP Template](ideaslisttemplate.pnp)
+
 
 ### 2. Import App
 After importing the app, you will have to make adjustments in the following places:
@@ -43,7 +45,8 @@ Alternatively, you can customize the code to sort by creation date or title, for
 ![alt](IdeasApp_NewForm.png)
 
 ### Vote for an Idea
-You can give an idea up to three plus points. First define the plus points using the slider. Then you can vote via the idea light bulb.
+You can give an idea up to three plus points. First define the plus points using the slider. Then you can vote via the idea light bulb. 
+
 ![alt](IdeasApp_vote.png)
 
 
