@@ -4,10 +4,10 @@ An Advent calendar lets you count the days until Christmas. Why not open a digit
 This PowerApp creates a digital Advent calendar to count the days until Christmas. . In my example there is only a quote behind the doors. But there are no limits to your imagination as you can also add images, links or HTML-formatted text.
 
 # Examples
-![Advent Calender V1](/AdventCalenderV1.jpeg)
-![Advent Calender V1](/AdventCalenderV1_1.jpeg)
-![Advent Calender V2](/AdventCalenderV2.jpeg)
-![Advent Calender V3](/AdventCalenderV3.jpeg)
+![Advent Calender V1](/Advent%20Calendar%20App/AdventCalenderV1.jpeg)
+![Advent Calender V1](/Advent%20Calendar%20App/AdventCalenderV1_1.jpeg)
+![Advent Calender V2](/Advent%20Calendar%20App/AdventCalenderV2.jpeg)
+![Advent Calender V3](/Advent%20Calendar%20App/AdventCalenderV3.jpeg)
 # Setup
 1. Create a SharePoint Document library (for single pictures on each day) or a Microsoft List (for using one background picture)
 2. Create columns:
