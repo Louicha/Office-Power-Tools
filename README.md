@@ -3,10 +3,10 @@ Some of my PowerApps and Components.
 
 ## Import a PowerApps App
 
-### File is a zip
+### File is a .zip
 https://powerapps.microsoft.com/en-us/blog/powerapps-packaging/
 
-### File is a XY
+### File is a .msapp
 
 1. Visit https://create.powerapps.com/
 2. Change to "Open"
@@ -26,5 +26,4 @@ The import process will start.
     - Open Settings
     - Click on Advanced Settings
     - Activate Components
-3. 
 
